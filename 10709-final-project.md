@@ -12,10 +12,10 @@
   </head>
   <body>
     <br/>
-    <div class="p-4 mb-2 bg-secondary text-white bg-opacity-50">
+    <div class="p-4 mb-2 bg-secondary text-white bg-opacity-50">.bg-secondary
     <div style="text-align:center;"><h1><b>復興高中</b></h1></div>
     <br/>
-  </div><div class="p-4 mb-2 bg-secondary text-white"><hr/>
+  </div><div class="p-4 mb-2 bg-secondary text-white">.bg-secondary<hr/>
     <br/>
     <h2><b>形象影片</b></h2>
     <br/>
@@ -53,7 +53,7 @@
   <img src="IMG_4133.JPG" width="400" height="250"/>
   </div>
   <br/>
-<hr/></div><div class="p-4 mb-2 bg-secondary text-white bg-opacity-50">
+<hr/></div><div class="p-4 mb-2 bg-secondary text-white bg-opacity-50">.bg-secondary
   <br/>
   <ul class="list-unstyled">
     <li><h5>圖片出處</h5></li>
